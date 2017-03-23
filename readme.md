@@ -18,6 +18,7 @@ Modules that cover multiple european countries and regions.
 - [db-sncf-prices](https://github.com/juliuste/db-sncf-prices) - DB & SNCF connection prices
 - [ouibus](https://github.com/juliuste/ouibus) - OUIBUS API client
 - [tallink](https://github.com/juliuste/tallink) - tallink ferry API client
+- [ecolines](https://github.com/derhuerst/ecolines) - [Ecolines](https://ecolines.net/) API client
 
 ## France
 
@@ -37,6 +38,7 @@ Modules that cover multiple european countries and regions.
 
 ### Miscellaneous
 
+- [locomore](https://github.com/derhuerst/locomore) - [Locomore](https://locomore.com/) stations & API client
 - [aav-stops](https://github.com/highsource/aav-stops) - AAV stops as GTFS-compatible CSV
 - [anhalt-bitterfeld-stops](https://github.com/highsource/anhalt-bitterfeld-stops) - Anhalt-Bitterfeld stops as GTFS-compatible CSV
 - [bbt-stops](https://github.com/highsource/bbt-stops) - BBT stops as GTFS-compatible CSV
