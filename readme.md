@@ -34,6 +34,7 @@ Modules that cover multiple european countries and regions.
 - [fahrplan](https://github.com/pbock/fahrplan) - DB timetable API client
 - [db-hafas](https://github.com/derhuerst/db-hafas) - DB Hafas API client
 - [db-stations](https://github.com/derhuerst/db-stations) - List of DB stations
+- [find-db-station-by-name](https://github.com/derhuerst/find-db-station-by-name) - Try to find a DB station by its name.
 - [db-prices](https://github.com/juliuste/db-prices) - DB connection prices
 - [db-stops](https://github.com/highsource/db-stops) - DB stops as GTFS-compatible CSV
 
