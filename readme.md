@@ -39,7 +39,11 @@ Modules that cover multiple european countries and regions.
 - [db-monitor-cli](https://github.com/derhuerst/db-monitor-cli) - db-monitor-cli
 - [find-db-station-by-name](https://github.com/derhuerst/find-db-station-by-name) - Try to find a DB station by its name.
 - [generate-db-shop-urls](https://github.com/derhuerst/generate-db-shop-urls) - Magically generate Deutsche Bahn ticket URLs.
+- [discover-db-stations](https://github.com/derhuerst/discover-db-stations) - Build a graph of DB stations by querying departures.
+- [db-prices-cli](https://github.com/derhuerst/db-prices-cli) - Check prices for a DB route.
 - [db-prices](https://github.com/juliuste/db-prices) - DB connection prices
+- [db-prices-viz](https://github.com/derhuerst/db-prices-viz) - Find out when to buy DB tickets.
+- [db-prices-viz-web](https://github.com/derhuerst/db-prices-viz-web) - Find out when to buy DB tickets.
 - [db-stops](https://github.com/highsource/db-stops) - DB stops as GTFS-compatible CSV
 
 ### Miscellaneous
