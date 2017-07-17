@@ -17,6 +17,7 @@ Modules that cover multiple european countries and regions.
 - [interrail](https://github.com/juliuste/interrail) - Interrail API client
 - [db-sncf-prices](https://github.com/juliuste/db-sncf-prices) - DB & SNCF connection prices
 - [ouibus](https://github.com/juliuste/ouibus) - OUIBUS API client
+- [deinbus](https://github.com/juliuste/deinbus) - deinbus API client
 - [tallink](https://github.com/juliuste/tallink) - tallink ferry API client
 - [ecolines](https://github.com/derhuerst/ecolines) - [Ecolines](https://ecolines.net/) API client
 - [nettbuss-stations](https://github.com/derhuerst/nettbuss-stations) - List of Nettbuss.se stations
