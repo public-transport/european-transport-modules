@@ -1,5 +1,7 @@
 # European transport JavaScript modules
 
+**Discontinued in favour of [european-transport-operators](https://github.com/public-transport/european-transport-operators)**
+
 This is a list of JavaScript modules related to european transport sorted by country / region and network operator.
 
 ## Europe
